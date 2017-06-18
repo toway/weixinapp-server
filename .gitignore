@@ -57,3 +57,4 @@ typings/
 # dotenv environment variables file
 .env
 
+express-server/node_modules
